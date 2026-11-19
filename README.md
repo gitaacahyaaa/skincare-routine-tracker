@@ -3,9 +3,7 @@
 **Glow in your own rhythm.**
 Geelume is a mobile-first web app for managing your daily skincare routine and tracking how your skin changes over time. It can be installed on a phone as a PWA.
 
-🔗 **Live demo:** 
-
-## Screenshots
+🔗 **Live demo:** https://skincare-routine-tracker-geelume.vercel.app?utm_source=chatgpt.com
 
 ## Features
 
