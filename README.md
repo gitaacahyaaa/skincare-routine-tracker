@@ -26,24 +26,6 @@ Geelume is a mobile-first web app for managing your daily skincare routine and t
 - localStorage for data persistence (no backend)
 - PWA: web manifest and service worker
 
-## Getting Started
-
-```bash
-git clone https://github.com/your-username/geelume.git
-cd geelume
-npm install
-npm run dev
-```
-
-Open http://localhost:5173.
-
-Build for production:
-
-```bash
-npm run build
-npm run preview
-```
-
 ## Project Structure
 
 ```
